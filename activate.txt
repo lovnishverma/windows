@@ -8,7 +8,7 @@ You will see the activation options, and follow onscreen instructions.
 That's all.
 Method 2 - Traditional
 Download the file from here
-https://github.com/Mizugameza05/Microsoft-Activation-Scripts
+https://github.com/Mizugameza05/Microsoft-Activation-Scripts/blob/master/MAS/All-In-One-Version/MAS_AIO.cmd
 Right-click on the downloaded zip file and extract
 In the extracted folder, find the folder named All-In-One-Version
 Run the file named MAS_AIO.cmd
