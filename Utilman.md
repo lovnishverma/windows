@@ -1,4 +1,3 @@
-```markdown
 # Documentation: Windows Local Password Reset Bypass (Utilman Method)
 
 ## Overview
