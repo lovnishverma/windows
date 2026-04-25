@@ -62,4 +62,21 @@ For visual demonstrations of this technique, refer to the following resources:
 * **How to Reset Windows 10/11 Password (No USB or Format Needed)**
   * *Description:* Covers the full process of interrupting the boot cycle to reach the Advanced Startup menu, renaming the `cmd.exe`, and utilizing the user account commands to regain access.
   * *Link:* [Watch on YouTube](http://www.youtube.com/watch?v=hX0VquFGM4I)
+
+```cmd
+1. Press and hold "Left shift" key then restart the pc/lapi on lock screen.
+
+2. Go to advance option and go to cmd option.
+
+3. "Select drive" where u install windows in my case its C: Type c:  enter.
+
+4. Go to system 32 folder cd windows/system32.
+
+5. ren Utilman.exe Utilman1.exe
+
+6. ren cmd.exe Utilman.exe
+
+7. Boot window, then click on accessibility option on lock screen.
+
+8. Cmd will open then type "control userpasswords2." Or "netplwiz"
 ```
